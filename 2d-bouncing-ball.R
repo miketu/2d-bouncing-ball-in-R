@@ -1,4 +1,4 @@
-# GGPlot based particle simulator by Michael Tu, PhD 
+# GGPlot based particle simulator by Michael Tu
 # Inspiration and basic logic based on: https://doi.org/10.1007/978-1-4842-8185-7_4
 # Last updated 2025-07-26
 require(draw)
